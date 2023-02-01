@@ -1,0 +1,5 @@
+train: custom_dataset/train/
+val: custom_dataset/valid/
+
+nc: 11
+names: ['biker', 'car', 'pedestrian', 'trafficLight', 'trafficLight-Green', 'trafficLight-GreenLeft', 'trafficLight-Red', 'trafficLight-RedLeft', 'trafficLight-Yellow', 'trafficLight-YellowLeft', 'truck']
